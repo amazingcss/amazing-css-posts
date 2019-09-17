@@ -12,3 +12,4 @@ List of all posts in [amazingcss.com](http://amazingcss.com):
 * [CSS scrollbar collection by Ghost Rider](https://amazingcss.com/css-scrollbar-collection-by-ghost-rider)
 * [Text animation by Yoann](https://amazingcss.com/text-animation-by-yoann)
 * [Flat responsive form using CSS3 & HTML5 by Rex Kirby](https://amazingcss.com/flat-responsive-form-using-css3-html5-rex-kirby)
+* [Responsive table by Geoff Yuen](https://amazingcss.com/responsive-table-by-geoff-yuen)
