@@ -14,3 +14,4 @@ List of all posts in [amazingcss.com](http://amazingcss.com):
 * [Flat responsive form using CSS3 & HTML5 by Rex Kirby](https://amazingcss.com/flat-responsive-form-using-css3-html5-rex-kirby)
 * [Responsive table by Geoff Yuen](https://amazingcss.com/responsive-table-by-geoff-yuen)
 * [Collection of button hover effects by David Conner](https://amazingcss.com/collection-button-hover-effects-by-david-conner)
+* [Responsive CSS image slider by Dudley Storey](https://amazingcss.com/responsive-css-image-slider-by-dudley-storey)
