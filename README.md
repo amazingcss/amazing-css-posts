@@ -13,4 +13,8 @@ List of all posts in [amazingcss.com](http://amazingcss.com):
 * [Text animation by Yoann](https://amazingcss.com/text-animation-by-yoann)
 * [Flat responsive form using CSS3 & HTML5 by Rex Kirby](https://amazingcss.com/flat-responsive-form-using-css3-html5-rex-kirby)
 * [Responsive table by Geoff Yuen](https://amazingcss.com/responsive-table-by-geoff-yuen)
+* [Collection of button hover effects by David Conner](https://amazingcss.com/collection-button-hover-effects-by-david-conner)
+* [Responsive CSS image slider by Dudley Storey](https://amazingcss.com/responsive-css-image-slider-by-dudley-storey)
+* [Colourful flower popup menu by Jasper LaChance](https://amazingcss.com/colourful-flower-popup-menu-by-jasper-lachance)
 * [Pure CSS horizontal collapsible by Aysha Anggraini](https://amazingcss.com/pure-css-horizontal-collapsible-by-aysha-anggraini)
+* [Single element CSS-Only absolute center overlay spinner by MattIn4D](https://amazingcss.com/css-only-absolute-center-overlay-spinner-by-mattin4d)
