@@ -19,3 +19,4 @@ List of all posts in [amazingcss.com](http://amazingcss.com):
 * [Pure CSS horizontal collapsible by Aysha Anggraini](https://amazingcss.com/pure-css-horizontal-collapsible-by-aysha-anggraini)
 * [Single element CSS-Only absolute center overlay spinner by MattIn4D](https://amazingcss.com/css-only-absolute-center-overlay-spinner-by-mattin4d)
 * [Social icons with tooltip by Jon Milner](https://amazingcss.com/social-icons-with-tooltip-by-jon-milner)
+* [Awesome hover effects on button](https://amazingcss.com/awesome-hover-effects-on-button)
