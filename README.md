@@ -20,3 +20,4 @@ List of all posts in [amazingcss.com](http://amazingcss.com):
 * [Single element CSS-Only absolute center overlay spinner by MattIn4D](https://amazingcss.com/css-only-absolute-center-overlay-spinner-by-mattin4d)
 * [Social icons with tooltip by Jon Milner](https://amazingcss.com/social-icons-with-tooltip-by-jon-milner)
 * [Awesome hover effects on button](https://amazingcss.com/awesome-hover-effects-on-button)
+* [Cool water text animation](https://amazingcss.com/cool-water-text-animation)
