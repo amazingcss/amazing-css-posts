@@ -22,3 +22,4 @@ List of all posts in [amazingcss.com](http://amazingcss.com):
 * [Awesome hover effects on button](https://amazingcss.com/awesome-hover-effects-on-button)
 * [Cool water text animation](https://amazingcss.com/cool-water-text-animation)
 * [Awesome pricing table with html and css](https://amazingcss.com/awesome-pricing-table)
+* [Awesome signup form with html and css](https://amazingcss.com/awesome-signup-form)
