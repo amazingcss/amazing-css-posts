@@ -28,4 +28,4 @@ List of all posts in [amazingcss.com](http://amazingcss.com):
 * [Simple but awesome loading animation](https://amazingcss.com/simple-awesome-loading-animation)
 * [Amazing design of pagination with html and css](https://amazingcss.com/amazing-design-pagination-html-css)
 * [Sliding text animation with html and css](https://amazingcss.com/sliding-text-animation-html-css)
-* [Amazing design of pagination with html and css](https://amazingcss.com/amazing-design-pagination-html-css)
+* [Animated gradient button on hover](https://amazingcss.com/animated-gradient-button-hover)
