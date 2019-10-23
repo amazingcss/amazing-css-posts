@@ -29,3 +29,7 @@ List of all posts in [amazingcss.com](http://amazingcss.com):
 * [Amazing design of pagination with html and css](https://amazingcss.com/amazing-design-pagination-html-css)
 * [Sliding text animation with html and css](https://amazingcss.com/sliding-text-animation-html-css)
 * [Animated gradient button on hover](https://amazingcss.com/animated-gradient-button-hover)
+* [New loading animation idea](https://amazingcss.com/new-loading-animation-idea)
+* [Glitch text effect like TikTok](https://amazingcss.com/glitch-text-effect-like-tiktok)
+* [Hidden text animation with html and css](https://amazingcss.com/hidden-text-animation-html-css)
+* [Amazing css with hover effect on image](https://amazingcss.com/amazing-css-hover-effect-image)
