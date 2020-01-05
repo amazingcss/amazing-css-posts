@@ -44,3 +44,4 @@ List of all posts in [amazingcss.com](http://amazingcss.com):
 * [Responsive navigation bar with css](https://amazingcss.com/responsive-navigation-bar-css)
 * [Amazing CSS with ripple animation](https://amazingcss.com/amazing-css-ripple-animation)
 * [Slideshow with navigation buttons by CSS](https://amazingcss.com/slideshow-navigation-buttons-css)
+* [Cool hover effect on menu](https://amazingcss.com/cool-hover-effect-on-menu)
