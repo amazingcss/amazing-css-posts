@@ -45,3 +45,4 @@ List of all posts in [amazingcss.com](http://amazingcss.com):
 * [Amazing CSS with ripple animation](https://amazingcss.com/amazing-css-ripple-animation)
 * [Slideshow with navigation buttons by CSS](https://amazingcss.com/slideshow-navigation-buttons-css)
 * [Cool hover effect on menu](https://amazingcss.com/cool-hover-effect-on-menu)
+* [Amazing css with profile card](https://amazingcss.com/amazing-css-with-profile-card)
