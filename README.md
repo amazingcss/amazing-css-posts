@@ -47,3 +47,4 @@ List of all posts in [amazingcss.com](http://amazingcss.com):
 * [Cool hover effect on menu](https://amazingcss.com/cool-hover-effect-on-menu)
 * [Amazing css with profile card](https://amazingcss.com/amazing-css-with-profile-card)
 * [Button with amazing hover effect](https://amazingcss.com/button-with-amazing-hover-effect)
+* [Animated share button with html and css](https://amazingcss.com/animated-share-button-with-html-css)
